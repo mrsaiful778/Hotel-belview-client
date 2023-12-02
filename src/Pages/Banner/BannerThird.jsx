@@ -17,9 +17,9 @@ const BannerThird = () => {
                                 <hr />
                             </div>
                             <div>
-                                <img className="lg:w-[400px] w-full h-[200px]" src="https://i.ibb.co/NrCvSsf/pexels-pixabay-277544.jpg" alt="" />
-                                <h2 className="text-xl font-semibold mt-2 mb-2">cemetery place</h2>
-                                <hr />
+                            <img className="lg:w-[400px] w-full h-[200px]" src="https://i.ibb.co/PtyzGTH/Chittagong-War-Cemetery-8.jpg" alt="" />
+                            <h2 className="text-xl font-semibold mt-2 mb-2">war cemetery</h2>
+                            <hr />
                             </div>
                             <div >
                             <img className="lg:w-[400px] w-full h-[200px]" src="https://i.ibb.co/bNP39nK/345379828.jpg" alt="" />
