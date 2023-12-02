@@ -12,9 +12,9 @@ const BannerThird = () => {
 
                         <div className="grid grid-cols-1 lg:grid-cols-2 mt-10 gap-10 ">
                             <div>
-                                <img className="lg:w-[400px] w-full h-[200px]" src="https://i.ibb.co/cbY0Njq/pexels-ian-turnell-709552.jpg" alt="" />
-                                <h2 className="text-xl font-semibold mt-2 mb-2">Khuwai River View</h2>
-                                <hr />
+                            <img className="lg:w-[400px] w-full h-[200px]" src="https://i.ibb.co/yf0SyQ3/download.jpg" alt="" />
+                            <h2 className="text-xl font-semibold mt-2 mb-2">Boalkhali River View</h2>
+                            <hr />
                             </div>
                             <div>
                             <img className="lg:w-[400px] w-full h-[200px]" src="https://i.ibb.co/PtyzGTH/Chittagong-War-Cemetery-8.jpg" alt="" />
