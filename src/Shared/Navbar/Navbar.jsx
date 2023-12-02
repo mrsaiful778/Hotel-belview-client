@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import logo from '../../assets/logo.png'
+
 import { useContext, useEffect, useState } from "react";
 import { AuthContext } from "../../Providers/AuthProvider";
 import Swal from "sweetalert2";
@@ -63,9 +63,9 @@ const Navbar = () => {
 
                 <div className="grid lg:flex">
                     <Link to='/' className="btn btn-ghost normal-case text-xl">
-                        <img src={logo} />
+                        <img className="w-40 h-40" src="https://i.ibb.co/0tQypcq/logo-bellevue-beige-removebg-preview.png" />
                     </Link>
-                    <h5 className="font-bold text-2xl lg:text-3xl pt-1 "><span className="text-sky-600">H</span>otel <span className="text-sky-500">P</span>aradise.</h5>
+                    <h5 className="font-bold text-2xl lg:text-3xl pt-1 "><span className="text-sky-600">H</span>otel <span className="text-sky-500">B</span>elview.</h5>
                 </div>
             </div>
             <div className="navbar-center hidden lg:flex">

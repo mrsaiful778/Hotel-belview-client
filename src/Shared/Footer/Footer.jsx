@@ -1,11 +1,11 @@
-import logo from "../../assets/logo.png"
+
 
 const Footer = () => {
     return (
-        <footer className="footer p-10 bg-sky-600 text-base-content">
+        <footer className="footer p-10 bg-base-200 text-base-content">
             <aside>
-                <img src={logo} alt="" />
-                <p>Hotel Paradise<br />Providing reliable service since 1992</p>
+                <img className="w-20 h-20" src="https://i.ibb.co/0tQypcq/logo-bellevue-beige-removebg-preview.png" alt="" />
+                <p>Hotel Belview<br />Providing reliable service since 1992</p>
             </aside>
             <nav>
                 <header className="footer-title">Services</header>
