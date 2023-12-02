@@ -27,9 +27,9 @@ const BannerThird = () => {
                                 <hr />
                             </div>
                             <div >
-                                <img className="lg:w-[400px] w-full h-[200px]" src="https://i.ibb.co/R6V9tbt/pexels-david-dibert-2169286.jpg" alt="" />
-                                <h2 className="text-xl font-semibold mt-2 mb-2">KalimNagar station</h2>
-                                <hr />
+                            <img className="lg:w-[400px] w-full h-[200px]" src="https://i.ibb.co/209vCyp/download-1.jpg" alt="" />
+                            <h2 className="text-xl font-semibold mt-2 mb-2">Peninsula Chittagong</h2>
+                            <hr />
                             </div>
                         </div>
 
