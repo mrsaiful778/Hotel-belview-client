@@ -1,0 +1,85 @@
+[
+    {
+        "service_id": "04",
+        "title": "Garden-View Bungalow",
+        "status": "available",
+        "Rating": "4.7",
+        "views": 1350,
+        "img": "https://i.ibb.co/pzWksxD/pexels-pixabay-271624.jpg",
+        "price": 700,
+        "description": "The Garden-View Bungalow offers a serene escape in a lush garden setting. Enjoy a private bungalow with a comfortable bed, a cozy sitting area, and easy access to the hotel's beautiful gardens.",
+        "room_size": "500 sq. ft."
+        
+    },
+    {
+        "service_id": "05",
+        "title": "Penthouse Suite with Hot Tub",
+        "status": "available",
+        "Rating": "4.6",
+        "views": 760,
+        "img": "https://i.ibb.co/qpVG8LR/pexels-pixabay-210604.jpg",
+        "price": 850,
+        "description": "Indulge in luxury with our Royal Suite. This exquisite suite offers a spacious bedroom, a separate living room, a dining area, and a private balcony with panoramic city views. It's the epitome of elegance.",
+        "room_size": "500 sq. ft."
+        
+    },
+    {
+        "room_id": "01",
+        "title": "Deluxe King Suite with Ocean View",
+        "status": "available",
+        "Rating": "4.9",
+        "views": 4500,
+        "price": 950,
+        "img": "https://i.ibb.co/mDfWHkv/pexels-vecislavas-popa-1743231.jpg",
+        "description": "Our Deluxe King Suite with Ocean View is a spacious and luxurious room that offers breathtaking vistas of the ocean. This room features a comfortable king-size bed, a well-appointed bathroom, and a separate living area. Perfect for a romantic getaway.",
+        "room_size": "500 sq. ft."
+        
+    },
+    {
+        "service_id": "02",
+        "title": "Executive Club Room with City View",
+        "status": "available",
+        "Rating": "5",
+        "views": 2000,
+        "price": 1050,
+        "img": "https://i.ibb.co/ZMjdn4X/pexels-photomix-company-97083.jpg",
+        
+        "description": "The Executive Club Room with City View provides an elegant and comfortable stay for business travelers and discerning guests. Enjoy exclusive access to our Executive Lounge with complimentary breakfast and evening cocktails.",
+        "room_size": "400 sq. ft"
+
+        
+    },
+    {
+        "service_id": "03",
+        "title": "Family-Friendly Suite with Mountain View",
+        "status": "available",
+        "Rating": "4.1",
+        "views": 2080,
+        "price": 1290,
+        "img": "https://i.ibb.co/yF0L7Ny/pexels-hakim-santoso-3634741.jpg",
+        "description": "Our Family-Friendly Suite with Mountain View is perfect for a relaxing family getaway. This spacious suite offers multiple bedrooms, a fully equipped kitchen, and a cozy living area.",
+        "room_size": "600 sq. ft"
+        
+    },
+    { 
+        "service_id": "06",
+        "title": "Cozy Twin Room",
+        "status": "available",
+        "Rating": "4.3",
+        "views": 1759,
+        "img": "https://i.ibb.co/kJWz3GS/pexels-vecislavas-popa-1743229.jpghttps://i.ibb.co/kJWz3GS/pexels-vecislavas-popa-1743229.jpg",
+        "price": 1349,
+        "description": "The Cozy Twin Room is perfect for friends or colleagues traveling together. It features two comfortable twin beds, a modern bathroom, and all the amenities you need for a pleasant stay.",
+        "room_size": "300 sq. ft"
+        
+    }
+    
+]
+
+
+
+
+
+
+
+
