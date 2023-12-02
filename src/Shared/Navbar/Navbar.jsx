@@ -49,7 +49,7 @@ const Navbar = () => {
     }, [theme]);
 
     return (
-        <div className="navbar bg-base-100 h-28">
+        <div className="navbar fixed z-10 bg-opacity-30 bg-black text-white max-w-7xl mx-auto">
 
             <div className="navbar-start">
                 <div className="dropdown">

@@ -12,7 +12,7 @@ const Home = () => {
         <div>
 
             <Helmet>
-                <title>Hotel Paradise || Home</title>
+                <title>Hotel Belview || Home</title>
             </Helmet>
             
             <Banner></Banner>

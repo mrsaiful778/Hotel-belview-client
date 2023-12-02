@@ -1,4 +1,4 @@
-my website live link: https://stellar-flan-c4d28e.netlify.app
+my website live link: https://hotel-managment-c2895.web.app
 
 
 

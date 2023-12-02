@@ -17,7 +17,7 @@ const Rooms = () => {
     return (
         <div className="my-10 max-w-screen-xl mx-auto">
             <Helmet>
-                <title>Hotel Paradise || Room</title>
+                <title>Hotel Belview || Room</title>
             </Helmet>
             <div className="text-center space-y-5">
                 <h3 className="text-3xl font-bold text-sky-500">Welcome</h3>
