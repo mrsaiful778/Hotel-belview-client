@@ -22,9 +22,9 @@ const BannerThird = () => {
                                 <hr />
                             </div>
                             <div >
-                                <img className="lg:w-[400px] w-full h-[200px]" src="https://i.ibb.co/rQKPMVX/pexels-arkay-19002526.jpg" alt="" />
-                                <h2 className="text-xl font-semibold mt-2 mb-2">flower Blu Hotel</h2>
-                                <hr />
+                            <img className="lg:w-[400px] w-full h-[200px]" src="https://i.ibb.co/bNP39nK/345379828.jpg" alt="" />
+                            <h2 className="text-xl font-semibold mt-2 mb-2">Radisson Blu Hotel</h2>
+                            <hr />
                             </div>
                             <div >
                             <img className="lg:w-[400px] w-full h-[200px]" src="https://i.ibb.co/209vCyp/download-1.jpg" alt="" />
