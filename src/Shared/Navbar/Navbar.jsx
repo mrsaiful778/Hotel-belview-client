@@ -63,7 +63,7 @@ const Navbar = () => {
 
                 <div className="grid lg:flex">
                     <Link to='/' className="btn btn-ghost normal-case text-xl">
-                        <img className="w-40 h-40" src="https://i.ibb.co/0tQypcq/logo-bellevue-beige-removebg-preview.png" />
+                        <img className="w-40 h-11" src="https://i.ibb.co/0tQypcq/logo-bellevue-beige-removebg-preview.png" />
                     </Link>
                     <h5 className="font-bold text-2xl lg:text-3xl pt-1 "><span className="text-sky-600">H</span>otel <span className="text-sky-500">B</span>elview.</h5>
                 </div>

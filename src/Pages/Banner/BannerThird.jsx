@@ -37,7 +37,7 @@ const BannerThird = () => {
 
                     <div className="flex-1 lg:ml-[150px]">
 
-                        <iframe width="100%" height="600" scrolling="no"  src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=shaistaganj%20high%20school%20road+(habiganj)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.maps.ie/population/">Find Population on Map</a></iframe>
+                    <iframe width="100%" height="600" scrolling="no" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=chittagon%20boalkhali%20river%20view+(My%20Business%20Name)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.maps.ie/population/">Find Population on Map</a></iframe>
                     </div>
 
                 </div>
