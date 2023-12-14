@@ -68,7 +68,7 @@ const Navbar = () => {
                     <h5 className="font-bold text-2xl lg:text-3xl pt-1 "><span className="text-sky-600">H</span>otel <span className="text-sky-500">B</span>elview.</h5>
                 </div>
             </div>
-            <div className="navbar-center hidden lg:flex">
+            <div className="navbar-center  lg:flex">
                 <ul className="menu menu-horizontal px-1">
 
                     {navItems}
