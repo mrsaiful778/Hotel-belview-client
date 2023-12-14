@@ -1,4 +1,4 @@
-my website live link: https://hotel-managment-c2895.web.app
+my website live link: https://curious-fox-4db06e.netlify.app
 
 
 
