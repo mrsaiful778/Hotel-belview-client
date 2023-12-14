@@ -55,7 +55,7 @@ const Booking = ({book}) => {
    
 
     return (
-        <div className="grid md:grid-cols-5 mb-7" key={book._id}>
+        <div className="grid md:grid-cols-5 py-20 " key={book._id}>
             <div className="col-span-1">
                 <img className="w-44 h-44" src={book?.img} alt="" />
             </div>
